@@ -1,0 +1,9 @@
+jupyter
+wheel
+jupyter
+numpy
+scipy
+matplotlib
+pandas
+dateparser
+seaborn
