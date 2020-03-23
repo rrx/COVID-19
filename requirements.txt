@@ -7,3 +7,4 @@ matplotlib
 pandas
 dateparser
 seaborn
+hide_code
